@@ -1,0 +1,6 @@
+
+version: 0.0.0
+author: ''
+mcu: atmega328p
+cflags: ''
+dependencies: []
